@@ -12,11 +12,6 @@ class App extends Component {
       tableData: [],
       filteredData: [],
       chartData: [],
-      company: '',
-      country: '',
-      installs: '',
-      roi: '',
-      industryRoi: '',
     };
   }
   async componentDidMount() {
