@@ -1,0 +1,629 @@
+{
+  "companies": [
+    {
+      "display_name": "GameSys",
+      "id": 1,
+      "name": "gamesys"
+    },
+    {
+      "display_name": "Playtika",
+      "id": 2,
+      "name": "playtika"
+    },
+    {
+      "display_name": "Disney",
+      "id": 3,
+      "name": "disney"
+    },
+    {
+      "display_name": "Twitter",
+      "id": 4,
+      "name": "twitter"
+    },
+    {
+      "display_name": "King",
+      "id": 5,
+      "name": "king"
+    },
+    {
+      "display_name": "Kabam",
+      "id": 6,
+      "name": "kabam"
+    },
+    {
+      "display_name": "Car Jump",
+      "id": 7,
+      "name": "carjump"
+    },
+    {
+      "display_name": "Play Studios",
+      "id": 8,
+      "name": "playstudios"
+    }
+  ],
+  "countries": [
+    {
+      "installs": 13452,
+      "country": "United States",
+      "cost": 25000,
+      "iso": "US",
+      "revenue": 20000
+    },
+    {
+      "installs": 9488,
+      "country": "United Kingdom",
+      "cost": 16002,
+      "iso": "UK",
+      "revenue": 11978
+    },
+    {
+      "installs": 11394,
+      "country": "Japan",
+      "cost": 12495,
+      "iso": "JP",
+      "revenue": 17564
+    },
+    {
+      "installs": 700,
+      "country": "Belgium",
+      "cost": 1500,
+      "iso": "BE",
+      "revenue": 622
+    },
+    {
+      "installs": 863,
+      "country": "Brazil",
+      "cost": 423,
+      "iso": "BR",
+      "revenue": 511
+    },
+    {
+      "installs": 11033,
+      "country": "China",
+      "cost": 14392,
+      "iso": "CN",
+      "revenue": 1500
+    },
+    {
+      "installs": 4520,
+      "country": "Germany",
+      "cost": 7520,
+      "iso": "DE",
+      "revenue": 8300
+    },
+    {
+      "installs": 200,
+      "country": "Hungary",
+      "cost": 350,
+      "iso": "HU",
+      "revenue": 100
+    },
+    {
+      "installs": 200,
+      "country": "Finland",
+      "cost": 390,
+      "iso": "FI",
+      "revenue": 500
+    }
+  ],
+  "company_1": [
+    {
+      "installs": 1157,
+      "country": "United States",
+      "cost": 1168,
+      "iso": "US",
+      "revenue": 1284
+    },
+    {
+      "installs": 880,
+      "country": "United Kingdom",
+      "cost": 862,
+      "iso": "UK",
+      "revenue": 1060
+    },
+    {
+      "installs": 1101,
+      "country": "Japan",
+      "cost": 1266,
+      "iso": "JP",
+      "revenue": 1228
+    },
+    {
+      "installs": 25,
+      "country": "Belgium",
+      "cost": 26,
+      "iso": "BE",
+      "revenue": 25
+    },
+    {
+      "installs": 27,
+      "country": "Brazil",
+      "cost": 24,
+      "iso": "BR",
+      "revenue": 14
+    },
+    {
+      "installs": 929,
+      "country": "China",
+      "cost": 845,
+      "iso": "CN",
+      "revenue": 912
+    },
+    {
+      "installs": 113,
+      "country": "Germany",
+      "cost": 102,
+      "iso": "DE",
+      "revenue": 70
+    },
+    {
+      "installs": 13,
+      "country": "Hungary",
+      "cost": 10,
+      "iso": "HU",
+      "revenue": 10
+    },
+    {
+      "installs": 15,
+      "country": "Finland",
+      "cost": 12,
+      "iso": "FI",
+      "revenue": 7
+    }
+  ],
+  "company_2": [
+    {
+      "installs": 101,
+      "country": "United States",
+      "cost": 83,
+      "iso": "US",
+      "revenue": 84
+    },
+    {
+      "installs": 289,
+      "country": "United Kingdom",
+      "cost": 262,
+      "iso": "UK",
+      "revenue": 262
+    },
+    {
+      "installs": 806,
+      "country": "Japan",
+      "cost": 725,
+      "iso": "JP",
+      "revenue": 500
+    },
+    {
+      "installs": 56,
+      "country": "Belgium",
+      "cost": 48,
+      "iso": "BE",
+      "revenue": 40
+    },
+    {
+      "installs": 48,
+      "country": "Brazil",
+      "cost": 38,
+      "iso": "BR",
+      "revenue": 52
+    },
+    {
+      "installs": 1008,
+      "country": "China",
+      "cost": 887,
+      "iso": "CN",
+      "revenue": 603
+    },
+    {
+      "installs": 44,
+      "country": "Germany",
+      "cost": 46,
+      "iso": "DE",
+      "revenue": 24
+    },
+    {
+      "installs": 18,
+      "country": "Hungary",
+      "cost": 15,
+      "iso": "HU",
+      "revenue": 11
+    },
+    {
+      "installs": 12,
+      "country": "Finland",
+      "cost": 14,
+      "iso": "FI",
+      "revenue": 9
+    }
+  ],
+  "company_3": [
+    {
+      "installs": 909,
+      "country": "United States",
+      "cost": 1063,
+      "iso": "US",
+      "revenue": 786
+    },
+    {
+      "installs": 24,
+      "country": "United Kingdom",
+      "cost": 22,
+      "iso": "UK",
+      "revenue": 15
+    },
+    {
+      "installs": 512,
+      "country": "Japan",
+      "cost": 609,
+      "iso": "JP",
+      "revenue": 420
+    },
+    {
+      "installs": 36,
+      "country": "Belgium",
+      "cost": 34,
+      "iso": "BE",
+      "revenue": 25
+    },
+    {
+      "installs": 51,
+      "country": "Brazil",
+      "cost": 55,
+      "iso": "BR",
+      "revenue": 71
+    },
+    {
+      "installs": 79,
+      "country": "China",
+      "cost": 86,
+      "iso": "CN",
+      "revenue": 49
+    },
+    {
+      "installs": 207,
+      "country": "Germany",
+      "cost": 231,
+      "iso": "DE",
+      "revenue": 291
+    },
+    {
+      "installs": 15,
+      "country": "Hungary",
+      "cost": 12,
+      "iso": "HU",
+      "revenue": 16
+    },
+    {
+      "installs": 17,
+      "country": "Finland",
+      "cost": 19,
+      "iso": "FI",
+      "revenue": 10
+    }
+  ],
+  "company_4": [
+    {
+      "installs": 199,
+      "country": "United States",
+      "cost": 232,
+      "iso": "US",
+      "revenue": 141
+    },
+    {
+      "installs": 736,
+      "country": "United Kingdom",
+      "cost": 853,
+      "iso": "UK",
+      "revenue": 622
+    },
+    {
+      "installs": 485,
+      "country": "Japan",
+      "cost": 436,
+      "iso": "JP",
+      "revenue": 388
+    },
+    {
+      "installs": 65,
+      "country": "Belgium",
+      "cost": 54,
+      "iso": "BE",
+      "revenue": 44
+    },
+    {
+      "installs": 10,
+      "country": "Brazil",
+      "cost": 10,
+      "iso": "BR",
+      "revenue": 9
+    },
+    {
+      "installs": 949,
+      "country": "China",
+      "cost": 787,
+      "iso": "CN",
+      "revenue": 1180
+    },
+    {
+      "installs": 400,
+      "country": "Germany",
+      "cost": 432,
+      "iso": "DE",
+      "revenue": 643
+    },
+    {
+      "installs": 20,
+      "country": "Hungary",
+      "cost": 17,
+      "iso": "HU",
+      "revenue": 14
+    },
+    {
+      "installs": 17,
+      "country": "Finland",
+      "cost": 16,
+      "iso": "FI",
+      "revenue": 20
+    }
+  ],
+  "company_5": [
+    {
+      "installs": 597,
+      "country": "United States",
+      "cost": 632,
+      "iso": "US",
+      "revenue": 385
+    },
+    {
+      "installs": 152,
+      "country": "United Kingdom",
+      "cost": 173,
+      "iso": "UK",
+      "revenue": 226
+    },
+    {
+      "installs": 796,
+      "country": "Japan",
+      "cost": 716,
+      "iso": "JP",
+      "revenue": 508
+    },
+    {
+      "installs": 48,
+      "country": "Belgium",
+      "cost": 44,
+      "iso": "BE",
+      "revenue": 57
+    },
+    {
+      "installs": 85,
+      "country": "Brazil",
+      "cost": 96,
+      "iso": "BR",
+      "revenue": 123
+    },
+    {
+      "installs": 1018,
+      "country": "China",
+      "cost": 967,
+      "iso": "CN",
+      "revenue": 986
+    },
+    {
+      "installs": 73,
+      "country": "Germany",
+      "cost": 70,
+      "iso": "DE",
+      "revenue": 43
+    },
+    {
+      "installs": 20,
+      "country": "Hungary",
+      "cost": 19,
+      "iso": "HU",
+      "revenue": 25
+    },
+    {
+      "installs": 17,
+      "country": "Finland",
+      "cost": 18,
+      "iso": "FI",
+      "revenue": 9
+    }
+  ],
+  "company_6": [
+    {
+      "installs": 280,
+      "country": "United States",
+      "cost": 313,
+      "iso": "US",
+      "revenue": 162
+    },
+    {
+      "installs": 177,
+      "country": "United Kingdom",
+      "cost": 177,
+      "iso": "UK",
+      "revenue": 109
+    },
+    {
+      "installs": 71,
+      "country": "Japan",
+      "cost": 57,
+      "iso": "JP",
+      "revenue": 78
+    },
+    {
+      "installs": 13,
+      "country": "Belgium",
+      "cost": 10,
+      "iso": "BE",
+      "revenue": 6
+    },
+    {
+      "installs": 20,
+      "country": "Brazil",
+      "cost": 18,
+      "iso": "BR",
+      "revenue": 10
+    },
+    {
+      "installs": 450,
+      "country": "China",
+      "cost": 409,
+      "iso": "CN",
+      "revenue": 609
+    },
+    {
+      "installs": 421,
+      "country": "Germany",
+      "cost": 437,
+      "iso": "DE",
+      "revenue": 611
+    },
+    {
+      "installs": 13,
+      "country": "Hungary",
+      "cost": 14,
+      "iso": "HU",
+      "revenue": 20
+    },
+    {
+      "installs": 19,
+      "country": "Finland",
+      "cost": 15,
+      "iso": "FI",
+      "revenue": 12
+    }
+  ],
+  "company_7": [
+    {
+      "installs": 802,
+      "country": "United States",
+      "cost": 745,
+      "iso": "US",
+      "revenue": 536
+    },
+    {
+      "installs": 884,
+      "country": "United Kingdom",
+      "cost": 910,
+      "iso": "UK",
+      "revenue": 1028
+    },
+    {
+      "installs": 632,
+      "country": "Japan",
+      "cost": 575,
+      "iso": "JP",
+      "revenue": 350
+    },
+    {
+      "installs": 63,
+      "country": "Belgium",
+      "cost": 67,
+      "iso": "BE",
+      "revenue": 45
+    },
+    {
+      "installs": 76,
+      "country": "Brazil",
+      "cost": 80,
+      "iso": "BR",
+      "revenue": 102
+    },
+    {
+      "installs": 324,
+      "country": "China",
+      "cost": 314,
+      "iso": "CN",
+      "revenue": 194
+    },
+    {
+      "installs": 216,
+      "country": "Germany",
+      "cost": 216,
+      "iso": "DE",
+      "revenue": 183
+    },
+    {
+      "installs": 15,
+      "country": "Hungary",
+      "cost": 12,
+      "iso": "HU",
+      "revenue": 11
+    },
+    {
+      "installs": 17,
+      "country": "Finland",
+      "cost": 18,
+      "iso": "FI",
+      "revenue": 24
+    }
+  ],
+  "company_8": [
+    {
+      "installs": 395,
+      "country": "United States",
+      "cost": 450,
+      "iso": "US",
+      "revenue": 616
+    },
+    {
+      "installs": 916,
+      "country": "United Kingdom",
+      "cost": 1080,
+      "iso": "UK",
+      "revenue": 1015
+    },
+    {
+      "installs": 680,
+      "country": "Japan",
+      "cost": 571,
+      "iso": "JP",
+      "revenue": 536
+    },
+    {
+      "installs": 46,
+      "country": "Belgium",
+      "cost": 42,
+      "iso": "BE",
+      "revenue": 36
+    },
+    {
+      "installs": 77,
+      "country": "Brazil",
+      "cost": 66,
+      "iso": "BR",
+      "revenue": 65
+    },
+    {
+      "installs": 857,
+      "country": "China",
+      "cost": 737,
+      "iso": "CN",
+      "revenue": 1039
+    },
+    {
+      "installs": 337,
+      "country": "Germany",
+      "cost": 357,
+      "iso": "DE",
+      "revenue": 321
+    },
+    {
+      "installs": 17,
+      "country": "Hungary",
+      "cost": 16,
+      "iso": "HU",
+      "revenue": 10
+    },
+    {
+      "installs": 14,
+      "country": "Finland",
+      "cost": 13,
+      "iso": "FI",
+      "revenue": 14
+    }
+  ]
+}
